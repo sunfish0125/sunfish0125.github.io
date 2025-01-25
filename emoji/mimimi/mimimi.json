@@ -1,14 +1,14 @@
 {
-  "name": "MimimiEmojis", // ŠG•¶šƒpƒbƒN–¼
-  "version": "1.0.0", // ŠG•¶šƒpƒbƒN‚Ìƒo[ƒWƒ‡ƒ“
-  "description": "‚İ‚İ‚İ‚ÌŠG•¶šƒpƒbƒN", // ŠG•¶šƒpƒbƒN‚Ìà–¾
-  "credit": "2024 MimimiEmojis", // ŠG•¶š‚Ì’˜ìŒ ‚âƒ‰ƒCƒZƒ“ƒX‚Ìî•ñ‚È‚Ç 
-  "iconURL": "https://github.com/sunfish0125/concrnt/blob/main/emoji/mimimi/BA-90.png", // ŠG•¶šƒpƒbƒN‚ÌƒAƒCƒRƒ“
+  "name": "MimimiEmojis", // çµµæ–‡å­—ãƒ‘ãƒƒã‚¯å
+  "version": "1.0.0", // çµµæ–‡å­—ãƒ‘ãƒƒã‚¯ã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³
+  "description": "ã¿ã¿ã¿ã®çµµæ–‡å­—ãƒ‘ãƒƒã‚¯", // çµµæ–‡å­—ãƒ‘ãƒƒã‚¯ã®èª¬æ˜
+  "credit": "2024 MimimiEmojis", // çµµæ–‡å­—ã®è‘—ä½œæ¨©ã‚„ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã®æƒ…å ±ãªã© 
+  "iconURL": "https://github.com/sunfish0125/concrnt/blob/main/emoji/mimimi/BA-90.png", // çµµæ–‡å­—ãƒ‘ãƒƒã‚¯ã®ã‚¢ã‚¤ã‚³ãƒ³
   "emojis": [
-    { // 1‚Â–Ú‚ÌŠG•¶š
-      "shortcode": "ba-90", // ŠG•¶š‚ÌƒVƒ‡[ƒgƒR[ƒh(`:`‚ğœ‚¢‚½•”•ª)
-      "imageURL": "https://github.com/sunfish0125/concrnt/blob/main/emoji/mimimi/BA-90.png", // ŠG•¶š‚ÌÀ‘Ì‚Æ‚È‚é‰æ‘œƒtƒ@ƒCƒ‹
-      "aliases": ["ba90", "BA90"] // ŠG•¶š‚ÌƒGƒCƒŠƒAƒX(•Ê–¼: ŠG•¶š‚ğŒŸõ‚·‚éÛ‚ÌƒL[ƒ[ƒh)
+    { // 1ã¤ç›®ã®çµµæ–‡å­—
+      "shortcode": "ba-90", // çµµæ–‡å­—ã®ã‚·ãƒ§ãƒ¼ãƒˆã‚³ãƒ¼ãƒ‰(`:`ã‚’é™¤ã„ãŸéƒ¨åˆ†)
+      "imageURL": "https://github.com/sunfish0125/concrnt/blob/main/emoji/mimimi/BA-90.png", // çµµæ–‡å­—ã®å®Ÿä½“ã¨ãªã‚‹ç”»åƒãƒ•ã‚¡ã‚¤ãƒ«
+      "aliases": ["ba90", "BA90"] // çµµæ–‡å­—ã®ã‚¨ã‚¤ãƒªã‚¢ã‚¹(åˆ¥å: çµµæ–‡å­—ã‚’æ¤œç´¢ã™ã‚‹éš›ã®ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰)
     }
   ]
 }
