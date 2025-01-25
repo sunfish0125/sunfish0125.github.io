@@ -1,14 +1,14 @@
 {
-  "name": "MimimiEmojis", // 絵文字パック名
-  "version": "1.0.0", // 絵文字パックのバージョン
-  "description": "みみみの絵文字パック", // 絵文字パックの説明
-  "credit": "2024 MimimiEmojis", // 絵文字の著作権やライセンスの情報など 
-  "iconURL": "https://sunfish0125.github.io/emoji/mimimi/BA-90.png", // 絵文字パックのアイコン
+  "name": "MimimiEmojis",
+  "version": "1.0.0",
+  "description": "みみみの絵文字パック",
+  "credit": "2024 MimimiEmojis", 
+  "iconURL": "https://sunfish0125.github.io/emoji/mimimi/BA-90.png",
   "emojis": [
-    { // 1つ目の絵文字
-      "shortcode": "ba-90", // 絵文字のショートコード(`:`を除いた部分)
-      "imageURL": "https://sunfish0125.github.io/emoji/mimimi/BA-90.png", // 絵文字の実体となる画像ファイル
-      "aliases": ["ba90", "BA90"] // 絵文字のエイリアス(別名: 絵文字を検索する際のキーワード)
+    {
+      "shortcode": "ba-90",
+      "imageURL": "https://sunfish0125.github.io/emoji/mimimi/BA-90.png",
+      "aliases": ["ba90", "BA90"]
     }
   ]
 }
