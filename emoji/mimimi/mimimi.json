@@ -2,13 +2,13 @@
   "name": "MimimiEmojis",
   "version": "1.0.0",
   "description": "みみみの絵文字パック",
-  "credit": "2024 MimimiEmojis", 
+  "credit": "2025 MimimiEmojis", 
   "iconURL": "https://sunfish0125.github.io/emoji/mimimi/BA-90.png",
   "emojis": [
     {
       "shortcode": "ba90",
       "imageURL": "https://sunfish0125.github.io/emoji/mimimi/BA-90.png",
-      "aliases": ["BA90", "おばさん", "おじさん", "moon"]
+      "aliases": ["BA90", "obasan", "ojisan", "moon"]
     }
   ]
 }
