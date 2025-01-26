@@ -1,1 +1,366 @@
-
+{
+  "name": "えだまめ絵文字",
+  "version": "1.0.0",
+  "description": "えだまめさんの絵文字です。https://hatakenomame.booth.pm/items/4722634",
+  "credit": "2023 えだまめ",
+  "iconURL": "https://sunfish0125.github.io/emoji/edamame/eede.png",
+  "emojis": [
+    {
+      "shortcode": "a",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/a.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "akan",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/akan.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "arigatomaturi",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/arigatomaturi.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "atodeiku",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/atodeiku.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "a__",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/a__.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "baby",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/baby.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "baitoikube",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/baitoikube.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "eede",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/eede.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "hitooru",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/hitooru.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "ima_wa_muri",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/ima_wa_muri.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "kakyouin",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/kakyouin.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "kamae",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/kamae.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "ke",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/ke.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "kowa",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/kowa.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "kusa",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/kusa.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "kyoutaku",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/kyoutaku.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "mamaaa",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/mamaaa.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "mesiwo",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/mesiwo.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "mgmg",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/mgmg.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "mizimenayatudane",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/mizimenayatudane.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "mokuhi",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/mokuhi.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "mumichan",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/mumichan.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "nandeokiteruno",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/nandeokiteruno.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "nattoruyarogai",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/nattoruyarogai.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "nemasu",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/nemasu.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "nenikita",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/nenikita.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "nero",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/nero.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "nu",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/nu.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "odorusika",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/odorusika.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "ohayou",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/ohayou.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "okitokruka",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/okitokruka.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "om",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/om.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "oroka",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/oroka.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "orude",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/orude.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "otu",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/otu.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "pancake",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/pancake.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "rice",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/rice.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "sigoowa",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/sigoowa.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "sikei",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/sikei.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "soudasouda",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/soudasouda.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "souhanaranyaro",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/souhanaranyaro.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "soukamo",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/soukamo.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "subi",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/subi.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "suki",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/suki.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "tbemasu",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/tbemasu.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "tikutikukotoba",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/tikutikukotoba.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "wakaran",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/wakaran.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "wakarann",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/wakarann.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "yangotonai",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/yangotonai.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "zinseinozundoko",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/zinseinozundoko.png",
+      "aliases": [
+        ""
+      ]
+    },
+    {
+      "shortcode": "zs",
+      "imageURL": "https://sunfish0125.github.io/emoji/edamame/zs.png",
+      "aliases": [
+        ""
+      ]
+    }
+  ]
+}
