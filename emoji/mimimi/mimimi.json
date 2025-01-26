@@ -1,14 +1,29 @@
 {
-  "name": "MimimiEmojis",
+  "name": "みみみの絵文字パック",
   "version": "1.0.0",
-  "description": "みみみの絵文字パック",
-  "credit": "2025 MimimiEmojis", 
+  "description": "私が使いたいだけの絵文字です。",
+  "credit": "2025 みみみの絵文字パック", 
   "iconURL": "https://sunfish0125.github.io/emoji/mimimi/BA-90.png",
   "emojis": [
     {
       "shortcode": "ba90",
       "imageURL": "https://sunfish0125.github.io/emoji/mimimi/BA-90.png",
-      "aliases": ["BA90", "obasan", "ojisan", "moon"]
+      "aliases": [""]
+    },
+    {
+      "shortcode": "abeshi",
+      "imageURL": "https://sunfish0125.github.io/emoji/mimimi/abeshi.png",
+      "aliases": [""]
+    },
+    {
+      "shortcode": "hidebu",
+      "imageURL": "https://sunfish0125.github.io/emoji/mimimi/hidebu.png",
+      "aliases": [""]
+    },
+    {
+      "shortcode": "orehaningenwoyameru",
+      "imageURL": "https://sunfish0125.github.io/emoji/mimimi/orehaningenwoyameru.png",
+      "aliases": [""]
     }
   ]
 }
